@@ -68,4 +68,4 @@ async def moona_moona(ctx, *, question):
 
     await ctx.send(response)
 
-client.run("MTA3ODY5NTQ3NDgwNDA0Nzk2Mg.G4Ck0H.cqLQo5ApRLQC2KKqIOopxHI0fpPMdHy-4laG9k")
+client.run("PASTE YOUR BOT TOKEN")
